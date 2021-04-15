@@ -1,0 +1,41 @@
+
+  .apicontainer {
+    position: relative;
+    top: 50px;
+    bottom: 0;
+    left: 30%;
+    right: 0;
+    padding: 20px;
+    display: block ;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 530px;
+    border: 2px solid green;
+  }
+  .search_form{
+    position: relative;
+    padding: 5px 5px 5px 5px;
+    text-align: center
+
+  }
+  .apiimg {
+    padding: 10px 10px 10px 10px;
+    width: 500px;
+    height: 500px;
+}
+.form-select{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 30px;
+}
+.plug-error{
+  color: red;
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;padding: 5px 0px 15px 0px;
+  position: relative;
+}
